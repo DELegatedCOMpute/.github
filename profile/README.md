@@ -2,6 +2,36 @@
 
 DELCOM is a set of tools to delegate your compute workloads
 
+## DELCOM-Server
+
+https://github.com/DELegatedCOMpute/DELCOM-Server
+
+The backbone of DELCOM. One server instance hosts the network.
+
+## DELCOM-Client
+
+https://github.com/DELegatedCOMpute/DELCOM-Client
+
+The client library for interfacing with DELCOM
+
+## DELCOM-CLI
+
+https://github.com/DELegatedCOMpute/DELCOM-CLI
+
+A CLI tool utilizing DELCOM-Client
+
+## DELCOM-GUI
+
+https://github.com/DELegatedCOMpute/DELCOM-GUI
+
+An Electron GUI app utilizing DELCOM-Client
+
+## DemoFiles
+
+https://github.com/DELegatedCOMpute/DemoFiles
+
+Demo files that include tests and example Docker file workloads.
+
 <!--
 
 **Here are some ideas to get you started:**
